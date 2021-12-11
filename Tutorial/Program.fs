@@ -9,5 +9,5 @@ let printSequence s =
 
 [<EntryPoint>]
 let main argv =
-    printSequence (primesUpTo2  100) 
+    printSequence (AntSequence 3)
     0 // return an integer exit code  
