@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="FizzBuzz.fs" />
     <Compile Include="TailRecursion.fs" />
     <None Include="TestScript.fsx" />
     <Compile Include="Sequences.fs" />
