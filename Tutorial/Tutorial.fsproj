@@ -7,6 +7,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="AddSubstractInList.fs" />
+    <Compile Include="SortedList.fs" />
+    <Compile Include="Equation.fs" />
     <Compile Include="ShiftString.fs" />
     <Compile Include="CodingGame.fs" />
     <Compile Include="FizzBuzz.fs" />
